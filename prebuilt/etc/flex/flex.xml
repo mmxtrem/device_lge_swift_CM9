@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Flexinfo>
+<Flexinfo   
+	FLEX_COUNTRY_CODE="RUS"
+	FLEX_OPERATOR_CODE="OPEN"
+	FLEX_MCC_CODE="250"
+	FLEX_MNC_CODE="0"
+	FLEX_REGION_CODE="5"
+	FLEX_SIMLOCK_ON="0"
+	FLEX_MODEL_CODE="0" />
+</Flexinfo>
+
+<!-- FLEX_REGION_CODE = 0:EUR, 1:LATIN, 2:ASIA, 3:AUS, 4:AFRICA, 5:CIS, 6:MEA, 7:US -->

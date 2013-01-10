@@ -1,0 +1,2 @@
+# dev_mount sdcard /mnt/sdcard auto /devices/platform/msm_sdcc.1/mmc_host/mmc0 /devices/platform/usb_mass_storage/lun0
+dev_mount sdcard /mnt/sdcard auto /devices/platform/msm_sdcc.1/mmc_host/mmc0 
